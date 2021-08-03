@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Mohammad.
-I’m currently learning ReactJs
+I'm Mohammad.<br />
+I’m currently learning ReactJs.
 <!--
 **mohamadorg/mohamadorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
